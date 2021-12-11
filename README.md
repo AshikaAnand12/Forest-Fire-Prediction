@@ -2,11 +2,10 @@
 Predict Forest fire location 
 
 ## Sources:
-* Kaggle:
-* Github:
+* NASA Earth: https://nrt3.modaps.eosdis.nasa.gov/archive/FIRMS/modis-c6.1/Global
 
 ## Working
-* Loading Data    :
+* Loading Data    : 
 * Cleaning Data   :
 * Understanding and Processing Data :
 * Visualise Data  :
