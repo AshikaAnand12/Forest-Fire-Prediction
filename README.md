@@ -30,6 +30,7 @@ https://colab.research.google.com/drive/10g2fgfyl6s3XINKIiMLomKjkuZ4ra0d_?authus
 https://docs.google.com/presentation/d/1gCoEG9m-zyypJohBpYVs0dRfvOv1Ffns7T11o-_zCbE/edit#slide=id.p
 
 ### Demo URL:
+https://drive.google.com/file/d/1NcsKR8N3NPFYIoOuBYytyPmjRGxHbjlY/view?usp=sharing
 
 ### Github Repository:
 https://github.com/AshikaAnand12/ForestFirePrediction
