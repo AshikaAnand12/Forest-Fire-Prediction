@@ -1,0 +1,106 @@
+[
+    {
+        "name": "San Jose",
+        "local_names": {
+            "eo": "San-Joseo",
+            "gl": "San Xosé",
+            "am": "ሳን ሆዜ",
+            "pt": "San José",
+            "uk": "Сан-Хосе",
+            "ru": "Сан-Хосе",
+            "ar": "سان خوسيه",
+            "oc": "San José",
+            "zh": "聖荷西",
+            "en": "San Jose",
+            "es": "San José"
+        },
+        "lat": 37.3361905,
+        "lon": -121.890583,
+        "country": "US",
+        "state": "California"
+    },
+    {
+        "name": "San José",
+        "local_names": {
+            "ug": "سان خوسې",
+            "fa": "سان خوزه",
+            "bn": "স্যান হোসে, কোস্টা রিকা",
+            "mk": "Сан Хозе",
+            "uk": "Сан-Хосе",
+            "os": "Сан-Хосе",
+            "ht": "San Jozé",
+            "am": "ሳን ሆዜ",
+            "hi": "सान होज़े",
+            "be": "Сан-Хасэ",
+            "eo": "San-Joseo",
+            "hu": "San José",
+            "de": "San José",
+            "ru": "Сан-Хосе",
+            "io": "San Jose",
+            "ka": "სან-ხოსე",
+            "sv": "San José, Costa Rica",
+            "az": "San-Xose",
+            "en": "San José",
+            "ta": "சான் ஹொசே, கோஸ்ட்டா ரிக்கா",
+            "fr": "San José",
+            "he": "סן חוסה",
+            "es": "San José",
+            "ar": "سان خوسيه، كوستاريكا",
+            "nl": "San José",
+            "bo": "སན་ཇོ་སེ།",
+            "sr": "Сан Хосе",
+            "mr": "सान होजे, कोस्टा रिका",
+            "hy": "Սան Խոսե",
+            "bs": "San Jose, Kostarika",
+            "nn": "San José i Costa Rica",
+            "is": "San José",
+            "ur": "سان ہوزے",
+            "lt": "San Chosė",
+            "lv": "Sanhosē",
+            "th": "ซันโฮเซ",
+            "el": "Σαν Χοσέ",
+            "sw": "San Jose",
+            "ja": "サンホセ",
+            "pl": "San José",
+            "ko": "산호세",
+            "bg": "Сан Хосе",
+            "gl": "San Xosé, Costa Rica",
+            "zh": "聖荷西"
+        },
+        "lat": 9.9325427,
+        "lon": -84.0795782,
+        "country": "CR",
+        "state": "San Jose Province"
+    },
+    {
+        "name": "Sant Josep de sa Talaia",
+        "local_names": {
+            "es": "San José",
+            "ca": "Sant Josep de sa Talaia"
+        },
+        "lat": 38.9043608,
+        "lon": 1.3178098,
+        "country": "ES",
+        "state": "Balearic Islands"
+    },
+    {
+        "name": "San Jose",
+        "local_names": {
+            "en": "San Jose"
+        },
+        "lat": 40.305598,
+        "lon": -89.6028829,
+        "country": "US",
+        "state": "Illinois"
+    },
+    {
+        "name": "San Jose",
+        "local_names": {
+            "ja": "サンホセ"
+        },
+        "lat": 10.7433533,
+        "lon": 121.9438784,
+        "country": "PH",
+        "state": "Antique"
+    }
+]
