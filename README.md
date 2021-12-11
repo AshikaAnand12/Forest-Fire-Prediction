@@ -1,6 +1,16 @@
 # ForestFirePrediction
 The main objective of this project is to generate the confidence level at which the forest fire may occur in near future and the percentage of forest fire that takes place at that specified location and time.
 
+* This is the user interface which takes the input parameters
+
+![image](https://user-images.githubusercontent.com/90420965/145670795-7dcfc795-ba20-44a6-baef-ee4f9a5923c0.png)
+
+
+* This is output generated for San Jose with the confidence level
+
+![image](https://user-images.githubusercontent.com/90420965/145670843-1e7e7565-bee9-4817-a0c7-0634b8e6da1a.png)
+
+
 
 ## Data Sources:
 * NASA Earth: https://nrt3.modaps.eosdis.nasa.gov/archive/FIRMS/modis-c6.1/Global
